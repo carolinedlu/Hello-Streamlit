@@ -35,8 +35,8 @@ def check_password():
 if check_password():
     import pandas as pd
     import numpy as np
-    #import matplotlib.pyplot as plt
-    #from sklearn.linear_model import LinearRegression
+    import matplotlib.pyplot as plt
+    from sklearn.linear_model import LinearRegression
     st.write("List of imported Packages:")
     st.write(dir())
     
