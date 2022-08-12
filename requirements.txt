@@ -1,0 +1,16 @@
+_ipyw_jlab_nb_ext_conf
+anaconda-navigator
+navigator-updater
+plotly
+numpy
+seaborn
+scikit-learn
+statsmodels
+xlrd
+openpyxl
+spyder
+pandas
+dash
+xgboost
+nbconvert
+matplotlib
