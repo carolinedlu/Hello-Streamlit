@@ -1,5 +1,5 @@
 import streamlit as st
-#from sklearn.linear_model import LinearRegression
+from sklearn.linear_model import LinearRegression
 #import ml_reg
 #import base64
 
@@ -36,7 +36,7 @@ def check_password():
 if check_password():
     import pandas as pd
     import numpy as np
-    #import matplotlib.pyplot as plt
+    import matplotlib.pyplot as plt
     st.write("List of imported Packages:")
     st.write(dir())
     
