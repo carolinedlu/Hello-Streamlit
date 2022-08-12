@@ -1,5 +1,5 @@
 import streamlit as st
-import ml_reg
+#import ml_reg
 #import base64
 
 # Code to check for password.
@@ -37,4 +37,6 @@ if check_password():
     import numpy as np
     import matplotlib.pyplot as plt
     from sklearn.linear_model import LinearRegression
+    st.write("List of imported Packages:")
+    st.write(dir())
     
