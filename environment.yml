@@ -22,3 +22,4 @@ dependencies:
   - dash
   - xgboost
   - nbconvert
+  - matplotlib
